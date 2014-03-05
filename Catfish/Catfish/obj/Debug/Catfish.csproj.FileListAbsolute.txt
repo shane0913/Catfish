@@ -1,0 +1,122 @@
+i:\users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\bin\Debug\Catfish.exe
+i:\users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\bin\Debug\Catfish.pdb
+i:\users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\bin\Debug\resources.pri
+i:\users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\bin\Debug\AppxManifest.xml
+i:\users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\bin\Debug\Catfish.build.appxrecipe
+i:\users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\App.g.i.cs
+i:\users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\App.g.cs
+i:\users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\Common\StandardStyles.g.i.cs
+i:\users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\Common\StandardStyles.g.cs
+i:\users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\XamlTypeInfo.g.cs
+i:\users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\App.xaml
+i:\users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\Common\StandardStyles.xaml
+i:\users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\Catfish.exe
+i:\users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\Catfish.pdb
+i:\users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\priconfig.xml
+i:\users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\layout.resfiles
+i:\users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\resources.resfiles
+i:\users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\pri.resfiles
+i:\users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\LanguageQualifiers.txt
+i:\users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\ProjectArchitectures.txt
+i:\users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\Home.g.i.cs
+i:\users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\Home.g.cs
+i:\users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\Home.xaml
+i:\users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\Login.g.i.cs
+i:\users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\Login.g.cs
+i:\users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\Login.xaml
+I:\Users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\Index.g.i.cs
+I:\Users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\Index.g.cs
+I:\Users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\Index.xaml
+I:\Users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\Register.g.i.cs
+I:\Users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\Register.g.cs
+I:\Users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\Register.xaml
+I:\Users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\MyPage.g.i.cs
+I:\Users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\MyPage.g.cs
+I:\Users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\MyPage.xaml
+I:\Users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\GlobalPage.g.i.cs
+I:\Users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\GlobalPage.g.cs
+I:\Users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\GlobalPage.xaml
+I:\Users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\CameraCapture.g.i.cs
+I:\Users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\CameraCapture.g.cs
+I:\Users\shane0913\documents\visual studio 2012\Projects\Catfish\Catfish\obj\Debug\CameraCapture.xaml
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\App.g.i.cs
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\App.g.cs
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\CameraCapture.g.i.cs
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\CameraCapture.g.cs
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\GlobalPage.g.i.cs
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\GlobalPage.g.cs
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\Common\StandardStyles.g.i.cs
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\Common\StandardStyles.g.cs
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\Index.g.i.cs
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\Index.g.cs
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\Login.g.i.cs
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\Login.g.cs
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\MyPage.g.i.cs
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\MyPage.g.cs
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\Register.g.i.cs
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\Register.g.cs
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\XamlTypeInfo.g.cs
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\App.xaml
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\CameraCapture.xaml
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\GlobalPage.xaml
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\Common\StandardStyles.xaml
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\Index.xaml
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\Login.xaml
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\MyPage.xaml
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\Register.xaml
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\Catfish.exe
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\Catfish.pdb
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\Catfish.exe
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\Catfish.pdb
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\resources.pri
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\AppxManifest.xml
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\Catfish.build.appxrecipe
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\priconfig.xml
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\layout.resfiles
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\resources.resfiles
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\pri.resfiles
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\ProjectArchitectures.txt
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\MessageView.g.i.cs
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\MessageView.g.cs
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\MessageView.xaml
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\UploadPost.g.i.cs
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\UploadPost.g.cs
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\UploadPost.xaml
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\ExploreView.g.i.cs
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\ExploreView.g.cs
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\ExploreView.xaml
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\App.xbf
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\CameraCapture.xbf
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\ExploreView.xbf
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\Index.xbf
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\Login.xbf
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\MessageView.xbf
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\MyPage.xbf
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\Register.xbf
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\UploadPost.xbf
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\XamlSaveStateFile.xml
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\GlobalPage.xbf
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\App.xbf
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\CameraCapture.xbf
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\ExploreView.xbf
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\GlobalPage.xbf
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\Common\StandardStyles.xbf
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\Index.xbf
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\Login.xbf
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\MessageView.xbf
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\MyPage.xbf
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\Register.xbf
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\UploadPost.xbf
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\priconfig.xml.intermediate
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\layout.resfiles.intermediate
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\resources.resfiles.intermediate
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\pri.resfiles.intermediate
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\qualifiers.txt
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\qualifiers.txt.intermediate
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\SearchView.xbf
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\SearchView.g.i.cs
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\SearchView.g.cs
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\SearchView.xaml
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\Common\StandardStyles.xbf
+D:\mxx\Visual Studio\Projects\Catfish\Catfish\obj\Debug\SearchView.xbf

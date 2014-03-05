@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>IDEA-PC</Machine>
+    <WindowsUser>mad</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b1dfc4d0-66c0-483d-86b7-7fa937bea567</PackageIdentityName>
+    <RegisteredManifestChecksum>F8F753C8281DDF97212D0D6F488F377D5146A44D601741B54CC252903439F1AD</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>b1dfc4d0-66c0-483d-86b7-7fa937bea567_1.1.0.0_neutral__qt59z5cyyp7e0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>b1dfc4d0-66c0-483d-86b7-7fa937bea567_qt59z5cyyp7e0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>b1dfc4d0-66c0-483d-86b7-7fa937bea567</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=shane0913</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-27T02:55:45.952</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\Catfish.exe">
+      <PackagePath>Catfish.exe</PackagePath>
+      <Modified>2013-12-02T11:41:56.666</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-11T14:32:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-04-02T15:39:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-26T13:55:58.556</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-12T04:21:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-04-02T15:39:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Assets\Wide310x150Logo.scale-100.jpg">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-26T13:51:15.400</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Images\Logo.jpg">
+      <PackagePath>Images\Logo.jpg</PackagePath>
+      <Modified>2013-02-22T15:53:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Images\man.jpg">
+      <PackagePath>Images\man.jpg</PackagePath>
+      <Modified>2013-11-12T03:51:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Images\posts\1.jpg">
+      <PackagePath>Images\posts\1.jpg</PackagePath>
+      <Modified>2013-11-14T07:35:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Images\posts\2.jpg">
+      <PackagePath>Images\posts\2.jpg</PackagePath>
+      <Modified>2013-11-14T07:38:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Images\posts\3.jpg">
+      <PackagePath>Images\posts\3.jpg</PackagePath>
+      <Modified>2013-11-14T07:35:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Images\posts\4.jpg">
+      <PackagePath>Images\posts\4.jpg</PackagePath>
+      <Modified>2013-11-14T07:35:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Images\posts\5.jpg">
+      <PackagePath>Images\posts\5.jpg</PackagePath>
+      <Modified>2013-11-14T13:01:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-11-11T13:09:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2013-11-27T01:53:55.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\CameraCapture.xbf">
+      <PackagePath>CameraCapture.xbf</PackagePath>
+      <Modified>2013-11-27T01:53:55.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\ExploreView.xbf">
+      <PackagePath>ExploreView.xbf</PackagePath>
+      <Modified>2013-11-27T01:53:55.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\GlobalPage.xbf">
+      <PackagePath>GlobalPage.xbf</PackagePath>
+      <Modified>2013-11-27T01:53:55.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2013-11-27T01:53:55.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\Index.xbf">
+      <PackagePath>Index.xbf</PackagePath>
+      <Modified>2013-11-27T01:53:55.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\Login.xbf">
+      <PackagePath>Login.xbf</PackagePath>
+      <Modified>2013-11-27T01:53:55.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\MessageView.xbf">
+      <PackagePath>MessageView.xbf</PackagePath>
+      <Modified>2013-11-27T01:53:55.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\MyPage.xbf">
+      <PackagePath>MyPage.xbf</PackagePath>
+      <Modified>2013-11-27T01:53:55.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\Register.xbf">
+      <PackagePath>Register.xbf</PackagePath>
+      <Modified>2013-11-27T01:53:55.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\SearchView.xbf">
+      <PackagePath>SearchView.xbf</PackagePath>
+      <Modified>2013-11-27T01:53:55.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\UploadPost.xbf">
+      <PackagePath>UploadPost.xbf</PackagePath>
+      <Modified>2013-11-27T01:53:55.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-11-27T02:55:45.781</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

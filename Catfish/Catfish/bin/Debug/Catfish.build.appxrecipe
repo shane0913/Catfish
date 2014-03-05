@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>IDEA-PC</Machine>
+    <WindowsUser>mad</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b1dfc4d0-66c0-483d-86b7-7fa937bea567</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\Catfish.exe">
+      <PackagePath>Catfish.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Assets\Wide310x150Logo.scale-100.jpg">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Images\Logo.jpg">
+      <PackagePath>Images\Logo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Images\man.jpg">
+      <PackagePath>Images\man.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Images\posts\1.jpg">
+      <PackagePath>Images\posts\1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Images\posts\2.jpg">
+      <PackagePath>Images\posts\2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Images\posts\3.jpg">
+      <PackagePath>Images\posts\3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Images\posts\4.jpg">
+      <PackagePath>Images\posts\4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Images\posts\5.jpg">
+      <PackagePath>Images\posts\5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\CameraCapture.xbf">
+      <PackagePath>CameraCapture.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\ExploreView.xbf">
+      <PackagePath>ExploreView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\GlobalPage.xbf">
+      <PackagePath>GlobalPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\Index.xbf">
+      <PackagePath>Index.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\Login.xbf">
+      <PackagePath>Login.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\MessageView.xbf">
+      <PackagePath>MessageView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\MyPage.xbf">
+      <PackagePath>MyPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\Register.xbf">
+      <PackagePath>Register.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\SearchView.xbf">
+      <PackagePath>SearchView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\UploadPost.xbf">
+      <PackagePath>UploadPost.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\mxx\Visual Studio\Projects\Catfish\Catfish\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,30 @@
+﻿<Page
+    x:Class="Catfish.CameraCapture"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Catfish"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.BottomAppBar>
+        <AppBar IsOpen="True" Background="Transparent">
+            <Grid>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                    <Button x:ConnectionId='1' Style="{StaticResource PhotoAppBarButtonStyle}"
+                                               />
+                    <Button x:ConnectionId='2' Style="{StaticResource VideoAppBarButtonStyle}"
+                                               />
+                    <Button x:ConnectionId='3' Style="{StaticResource DeleteAppBarButtonStyle}"
+                                                />      
+                </StackPanel>
+            </Grid>
+        </AppBar>
+    </Page.BottomAppBar>
+    
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <CaptureElement x:Name="capturePreview" Height="800" />
+        <Frame x:Name="camera_frame"/>
+    </Grid>
+</Page>
+
